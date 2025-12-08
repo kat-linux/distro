@@ -123,6 +123,9 @@ wireless_tools
 wpa_supplicant
 wvdial
 xdg-utils
+xfce4
+xfce4-goodies
+lightdm
 xfsprogs
 xl2tpd
 zsh
