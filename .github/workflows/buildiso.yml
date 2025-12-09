@@ -28,8 +28,10 @@ jobs:
           rm -rf ./out
           mkarchiso . -v
 
-      - name: Stage, commit, and push
-        uses: amousavigourabi/push-action@v0
+      - name: Upload to Release
+        uses: Shopify/upload-to-release@v2.0.0 # SHOPIFY?!?!
         with:
-          message: Built ISO
+          name: Latest Kat Linux release
+          path: $GITHUB_WORKSPACE/out/*
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
           
