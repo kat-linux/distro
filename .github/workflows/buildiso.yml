@@ -28,8 +28,6 @@ jobs:
           rm -rf ./out
           mkarchiso . -v
 
-      - name: Upload to Release
-        uses: ncipollo/release-action@v1
-        with:
-          artifacts: $GITHUB_WORKSPACE/out/*
+      - name: GitHub Release
+        uses: softprops/action-gh-release@v2.5.0
           
