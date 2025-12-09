@@ -29,10 +29,7 @@ jobs:
           mkarchiso . -v
 
       - name: Upload to Release
-        #uses: Shopify/upload-to-release@v2.0.0 # SHOPIFY?!?!
-        #with:
-        #  name: Latest Kat Linux release
-        #  path: $GITHUB_WORKSPACE/out/*
-        #  repo-token: ${{ secrets.GITHUB_TOKEN }}
-        uses: fnkr/github-action-ghr@v1.3
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: $GITHUB_WORKSPACE/out/*
           
