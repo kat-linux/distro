@@ -15,6 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Get database files
+        run: pacman -Sy
+
       - name: Install ArchISO
         run: pacman -S --noconfirm archiso
 
