@@ -30,4 +30,10 @@ jobs:
 
       - name: GitHub Release
         uses: softprops/action-gh-release@v2.5.0
+        with:
+          tag_name: latest
+          name: Latest ArchISO Build
+          body: |
+            Automated ArchISO build from commit ${{ github.sha }}
+            Built on: ${{ github.event.head_commit.timestamp }}
           
