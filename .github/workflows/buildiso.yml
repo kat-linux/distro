@@ -1,0 +1,31 @@
+name: Build ISO
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: archlinux:latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install ArchISO
+        run: pacman -S --noconfirm archiso
+
+      - name: Build the ISO
+        run: |
+          cd $GITHUB_WORKSPACE
+          rm -rf ./out
+          mkarchiso . -v
+
+      - name: Stage, commit, and push
+        uses: amousavigourabi/push-action@v0
+        with:
+          message: Built ISO
+          
