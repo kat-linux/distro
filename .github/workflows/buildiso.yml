@@ -30,6 +30,7 @@ jobs:
           cd $GITHUB_WORKSPACE
           rm -rf ./out
           mkarchiso . -v
+          mv ./out/* /
 
       - name: GitHub Release
         uses: softprops/action-gh-release@v2.5.0
@@ -39,4 +40,5 @@ jobs:
           body: |
             Automated ArchISO build from commit ${{ github.sha }}
             Built on: ${{ github.event.head_commit.timestamp }}
+          files: /*.iso
           
