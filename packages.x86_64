@@ -16,6 +16,7 @@ darkhttpd
 ddrescue
 dhcpcd
 diffutils
+broadcom-wl-dkms
 dmidecode
 dmraid
 dnsmasq
