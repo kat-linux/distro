@@ -132,3 +132,12 @@ xfsprogs
 xl2tpd
 zsh
 kitty
+lightdm-slick-greeter
+xorg-server
+networkmanager
+network-manager-applet
+pipewire
+pipewire-pulse
+wireplumber
+pavucontrol
+firefox
