@@ -1,0 +1,756 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-desktop" version="1.0">
+  <property name="backdrop" type="empty">
+    <property name="screen0" type="empty">
+      <property name="monitorVirtual-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorVirtual1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitoreDP-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitoreDP1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitoreDP" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitoreDP-1-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorLVDS-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorLVDS1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorHDMI-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorHDMI-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorHDMI-2" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorHDMI1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorHDMI-A-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorHDMI-A-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorHDMI-A-2" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDP-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDP-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDP-2" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDP-3" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDP-4" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDP1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDP2" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDisplayPort-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDisplayPort-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDisplayPort-2" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDVI-D-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDVI-D-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDVI-I-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorDVI-I-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorVGA-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorVGA-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitorNone-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitor0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+      <property name="monitor1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/kat/default.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="color-style" type="int" value="0"/>
+        </property>
+      </property>
+    </property>
+  </property>
+</channel>
