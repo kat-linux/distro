@@ -19,11 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Get database files
-        run: pacman -Sy
-
       - name: Install ArchISO
-        run: pacman -S --noconfirm archiso
+        run: pacman -Syu --noconfirm archiso
 
       - name: Build the ISO
         run: |
@@ -32,7 +29,7 @@ jobs:
           mkarchiso -v -w ./work -o ./out .
        
       - name: Upload ISO Artifact
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@v4
 	with:
 	  name: katlinux-${{ github.sha }}
           path: out/*.iso
