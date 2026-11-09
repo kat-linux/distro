@@ -27,12 +27,11 @@ jobs:
           cd $GITHUB_WORKSPACE
           rm -rf ./out ./work
           mkarchiso -v -w ./work -o ./out .
-       
+
       - name: Upload ISO Artifact
         uses: actions/upload-artifact@v4
-	with:
-	  name: katlinux-${{ github.sha }}
+        with:
+          name: katlinux-${{ github.sha }}
           path: out/*.iso
-	  compression-level: 0
-	  retention-days: 14
-          
+          compression-level: 0
+          retention-days: 14
