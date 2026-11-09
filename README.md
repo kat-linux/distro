@@ -8,3 +8,9 @@ Todo:
 - [x] Base ArchISO
 - [ ] Full Appearance
 - [ ] Custom Package Manager
+
+# Building and running
+
+To build the distro, run ``./build.sh`` (Being on linux is required to build btw)
+
+Then, to run it, run ``./scripts/run.sh``

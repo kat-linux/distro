@@ -28,17 +28,14 @@ jobs:
       - name: Build the ISO
         run: |
           cd $GITHUB_WORKSPACE
-          rm -rf ./out
-          mkarchiso . -v
-          mv ./out/* /
-
-      - name: GitHub Release
-        uses: softprops/action-gh-release@v2.5.0
-        with:
-          tag_name: latest
-          name: Latest ArchISO Build
-          body: |
-            Automated ArchISO build from commit ${{ github.sha }}
-            Built on: ${{ github.event.head_commit.timestamp }}
-          files: /*.iso
+          rm -rf ./out ./work
+          mkarchiso -v -w ./work -o ./out .
+       
+      - name: Upload ISO Artifact
+        uses: actions/upload-artifact@v7
+	with:
+	  name: katlinux-${{ github.sha }}
+          path: out/*.iso
+	  compression-level: 0
+	  retention-days: 14
           
